@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @c0debabe
+- 👀 I’m interested in demonitizing and decentralizing the internet
+- 🌱 I’m currently learning DevOps
+- 🕸️ I help run a community for technologists and artists called hackers dot town ( https://hackers.town )
+- 📫 You can reach me at hire@alicerhodes.com
