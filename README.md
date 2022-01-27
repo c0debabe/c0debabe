@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @c0debabe
+- My opinions and shenanigans are mine and do not represent my employer
 - 👀 I’m interested in demonitizing and decentralizing the internet
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps with TEN7 ( https://ten7.com )
 - 🕸️ I help run a community for technologists and artists called hackers dot town ( https://hackers.town )
 - 📫 You can reach me at hire@alicerhodes.com
