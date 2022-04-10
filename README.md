@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0debabe
 - ℹ️ My opinions and shenanigans are mine and do not represent my employer
 - 👀 I’m interested in demonitizing and decentralizing the internet
-- 🌱 I’m currently learning DevOps with TEN7 ( https://ten7.com )
-- 🕸️ I help run a community for technologists and artists called hackers dot town ( https://hackers.town )
+- 🌱 I’m currently doing front-end development and web design for cpb.org via contract with ugtechnologies.com
+- 🕸️ I help run a community for technologists and artists called https://hackers.town
 - 📫 You can reach me at hire@alicerhodes.com
